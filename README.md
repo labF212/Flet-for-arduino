@@ -6,6 +6,6 @@ This type of programming is useful if you plan to use a sensor that is not compa
 
 # Flet para arduino (Português)
 Este exemplo demonstra um programa simples em C++ no Arduino e um programa Flet para ler os dados.
-Se quiser obter resultados mais avançados de forma mais fácil, considere usar o Telemetrix para Arduino.
+Se quiser obter resultados mais avançados de forma mais fácil, considere usar o Telemetrix para Arduino (veja os examplos: https://github.com/labF212/Flet-for-arduino-with-Flet).
 
-Este tipo de programação é boa, se você pretender utilizar algum sensor, que não seja compatível, com o Telemetrix (veja os examplos: https://github.com/labF212/Flet-for-arduino-with-Flet)
+Este tipo de programação é boa, se você pretender utilizar algum sensor, que não seja compatível, com o Telemetrix 
